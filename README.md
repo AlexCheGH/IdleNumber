@@ -11,4 +11,4 @@ Functionality:
 
 Mini-demo: 
 
-<img width="327" alt="Screenshot 2023-07-22 at 23 08 48" src="https://github.com/AlexCheGH/IdleNumber/assets/69009399/33d6389d-1032-4d83-8219-f6ae0a7ed773">
+<img width="327" alt="Screenshot 2023-07-22 at 23 08 48" src="https://github.com/AlexCheGH/IdleNumber/assets/69009399/c4904301-c0bf-4877-974c-abed0149757e">
