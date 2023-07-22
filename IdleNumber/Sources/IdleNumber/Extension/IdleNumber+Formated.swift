@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  IdleNumber+Formated.swift
 //  
 //
 //  Created by Alex Chekushkin on 22/07/2023.
@@ -8,7 +8,7 @@
 import Foundation
 
 public extension IdleNumber {
-    var description: String {
+    var formatted: String {
         return toString()
     }
 }

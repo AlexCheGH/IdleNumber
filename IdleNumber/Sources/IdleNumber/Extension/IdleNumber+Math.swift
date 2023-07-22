@@ -82,7 +82,6 @@ public extension IdleNumber {
         return applyFormatting(to: result)
     }
 
-
     // MARK: - Division
     static func /(lhs: IdleNumber, rhs: IdleNumber) -> IdleNumber {
         let resultValue = lhs.value / rhs.value
